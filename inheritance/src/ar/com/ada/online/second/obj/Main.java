@@ -11,7 +11,7 @@ public class Main {
         person1.setName("Lulú");
         person1.setLastName("Roldán");
 
-        System.out.println("person1.toSrting(): " + person1.toString());
+        System.out.println("person1.toString(): " + person1.toString());
         System.out.println("person2.toString(): " + person2.toString());
         System.out.println("person3.toString(): " + person3.toString());
         System.out.println("person4.toString(): " + person4.toString());
